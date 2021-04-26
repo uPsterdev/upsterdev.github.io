@@ -213,13 +213,12 @@
 }
 
 .unread-2lAfLh {
-    position: unset;
+    position: absolute;
     height: 10px;
-    width: 13px;
+    width: 10px;
     border-radius: 20px;
-    top: 20px;
-    margin-left: 15px;
-    margin-right: 10px;
+    top: 17px;
+    margin-left: -17px;
     margin-top: -5px;
 }
 
