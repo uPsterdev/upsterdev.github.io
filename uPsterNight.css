@@ -193,7 +193,6 @@
 .avatar-3uk_u9 {
     width: 40px !important;
     height: 40px !important;
-    margin-right: 0;
 }
 
 .avatar-3uk_u9 .wrapper-3t9DeA {
@@ -818,7 +817,7 @@
 .role-2irmRk {
     font-size: 13px;
     font-weight: 500;
-    border-right: 0;
+    border: 0;
     border-radius: 11px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
